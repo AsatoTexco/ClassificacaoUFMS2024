@@ -20,9 +20,9 @@ Exemplo de saída(filtrando todos da vaga para Ampla concorrência - AC):
 ![imagem representativa](https://iili.io/JY4deou.png) 
 
 # Obs
-- Esse programa pode ser alterado e adptado para qualquer curso da UFMS ou outro edital similar
-- O tipo de vaga também pode ser alterado na linha 72
-
+- Esse programa pode ser alterado e adptado para qualquer curso da UFMS ou outro edital similar.
+- O tipo de vaga também pode ser alterado na linha 72.
+- Biblioteca `fitz` necessária, utilize: `pip install PyMuPDF`.
 
 
 
