@@ -1,6 +1,6 @@
 # Classificação UFMS 2024 
 
-Para todos os ansiosos que aguardam ansiosamente a divulgação da classificação da UFMS para o curso de Sistemas de Informação em 2024, gostaria de apresentar um sistema que analisa todos os candidatos, proporcionando uma classificação precisa prévia.
+Para todos os que aguardam ansiosamente a divulgação da classificação da UFMS para o curso de Sistemas de Informação em 2024, gostaria de apresentar um sistema que analisa todos os candidatos, proporcionando uma classificação precisa prévia.
 
 # Funcionamento
 Inicialmente, iniciei a seleção dos concorrentes para o curso de Sistemas de Informação por meio de um sistema personalizado que desenvolvi chamado `get_concorrentes.py`. Ao executar este script, você pode facilmente copiar e colar os dados dos candidatos no arquivo `edital_participantes.pdf` conforme exemplificado na imagem abaixo. Este processo simplifica a coleta de informações, tornando-o mais eficiente e amigável.
